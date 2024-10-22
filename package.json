@@ -32,7 +32,7 @@
   "devDependencies": {
     "json2module": "0.0",
     "rimraf": "2",
-    "rollup": "0.64",
+    "rollup": "2.79",
     "rollup-plugin-ascii": "0.0",
     "rollup-plugin-node-resolve": "3",
     "rollup-plugin-terser": "1",
