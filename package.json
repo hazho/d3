@@ -32,7 +32,7 @@
   "devDependencies": {
     "json2module": "0.0",
     "rimraf": "2",
-    "rollup": "0.64",
+    "rollup": "2.79",
     "rollup-plugin-ascii": "0.0",
     "rollup-plugin-node-resolve": "3",
     "rollup-plugin-terser": "1",
@@ -44,7 +44,7 @@
     "d3-brush": "1",
     "d3-chord": "1",
     "d3-collection": "1",
-    "d3-color": "1",
+    "d3-color": "3",
     "d3-contour": "1",
     "d3-dispatch": "1",
     "d3-drag": "1",
